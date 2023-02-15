@@ -1,0 +1,4 @@
+What is multi-line text?
+Text can span multiple lines as long as it is indented by at least one space.
+Only the space character ( U+0020 ) can be used for indentation. Fluent treats tab characters as regular text.
+single = Text can be written in a single line.
